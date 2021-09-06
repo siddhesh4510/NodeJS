@@ -64,7 +64,7 @@ To get other user information use
 
 http://localhost:4518/user/ email
 
-Request method should be GET .This will not require authentication .
+Request method should be GET .This will not require Authorization .
 
 
 **Step8**
