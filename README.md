@@ -21,7 +21,7 @@ Import file
 ***API for NodeJS Server 1.postman_collection.json*** 
    in Postman to load api. If evrything is present (i.e all api load properly) execute api by following steps other wise do changes according to steps .
 
-If you uses this file you need to change only images (in register and in update if you want to update image) and tocken in Authorization headers (in update profile , in update password and get your own information api ).Use tocken which riceived after login.
+If you uses this file you need to change only images (in register and in update if you want to update image) and tockenes in Authorization headers (in update profile , in update password and get your own information api ).Use tocken which riceived after login.
 
 
 **Step 4**
